@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Muhamad Reza Aditya",
+        "umur" : 16,
+        "nis" : 12209186,
+        "pelajar" : true,
+        "hobby" : [
+            "ngoding",
+            "debugging"
+        ],
+        "program" : {
+            "program1" : "laravel",
+            "program2" : "node.js"
+        }
+    
+    },
+    {
+        "nama" : "Muhamad Reza Aditya",
+        "umur" : 16,
+        "nis" : 12209186,
+        "pelajar" : true,
+        "hobby" : [
+            "ngoding",
+            "debugging"
+        ],
+        "program" : {
+            "program1" : "laravel",
+            "program2" : "node.js"
+        }
+    
+    }
+]
